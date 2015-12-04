@@ -1,3 +1,5 @@
+package yams;
+
 
 public class test {
 
