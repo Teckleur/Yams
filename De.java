@@ -1,3 +1,5 @@
+package yams;
+
 import java.util.Random;
 
 
