@@ -1,4 +1,5 @@
-package yams;
+
+
 
 public class Lance {
 

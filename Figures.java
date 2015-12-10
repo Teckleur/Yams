@@ -1,4 +1,4 @@
-package yams;
+
 
 public enum Figures {
 	

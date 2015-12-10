@@ -1,4 +1,4 @@
-package yams;
+
 
 
 public class test {
@@ -11,6 +11,9 @@ public class test {
 
 			De dé1 = new De();
 			System.out.println(dé1.getValeur());
+			
+			Lance lancer1 = new Lance();
+			System.out.println(lancer1.toString());
 			
 	}
 
